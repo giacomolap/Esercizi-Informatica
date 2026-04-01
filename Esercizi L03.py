@@ -48,3 +48,4 @@ def conta_parole(stringa):
     return un_dizionario
             
 print(conta_parole(ShesaRainbow))     
+
